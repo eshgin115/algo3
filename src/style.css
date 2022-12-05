@@ -1,0 +1,37 @@
+* {
+  font-family: sans-serif;
+}
+
+center {
+  font-weight: bold;
+  border: 1px solid black;
+  padding: 20px;
+  background: rgb(245, 227, 227);
+}
+
+p {
+  margin: 10px;
+}
+
+input {
+  background-color: rgb(175, 171, 171);
+  outline: none;
+  border: none;
+}
+
+input:focus {
+  outline: 1em;
+  border: 1px solid black;
+}
+
+button {
+  display: block;
+  margin-top: 15px;
+  padding: 10px 30px;
+  font-weight: bold;
+  background: ivory;
+}
+
+button:hover {
+  cursor: pointer;
+}
